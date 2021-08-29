@@ -1,0 +1,21 @@
+{
+  'code': 0,
+  'data': {
+    'calendar_list': [
+      {
+        'calendar_id': 'feishu.cn_zlJVGcv7N6f9PWGHeizdpe@group.calendar.feishu.cn',
+        'color': -11034625,
+        'description': '',
+        'permissions': 'private',
+        'role': 'owner',
+        'summary': 'yancey',
+        'summary_alias': '',
+        'type': 'primary'
+      }
+    ],
+    'has_more': False,
+    'page_token': '',
+    'sync_token': 'ListCalendarsSyncToken_MgAFyiGKuyb-AAAAAAAAAABhIgMPgkyAHA=='
+  },
+  'msg': 'success'
+}
